@@ -1,5 +1,6 @@
 # sentiment-analysis
 Fine-Tuning RoBERTa for Graph-Based Sentiment Analysis
+[Fine-tuning RoBERTa for Graph-Based Sentiment Analysis.pdf](https://github.com/user-attachments/files/22917610/Paper.pdf)
 
 The finetuned model can be found on the huggingface hub
 
@@ -31,4 +32,3 @@ The dataset utllized for this project is a reannotated version of the GoEmotions
  year = {2020}
 }
 
-[Fine-tuning RoBERTa for Graph-Based Sentiment Analysis.pdf](https://github.com/user-attachments/files/22917610/Paper.pdf)
