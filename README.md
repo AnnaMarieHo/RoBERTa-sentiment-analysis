@@ -21,6 +21,7 @@ https://pytorch.org/get-started/locally/
 
 Pytorch offers additional versions. You will be able to obtain an installation command for your appropriate operating system and version in the Pytorch documentation. 
 
+train_model.py script is located in src/train_model.py
 
 
 The dataset utllized for this project is a reannotated version of the GoEmotions dataset curated by Google
