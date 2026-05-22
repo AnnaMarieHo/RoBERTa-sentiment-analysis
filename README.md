@@ -1,5 +1,5 @@
 # sentiment-analysis
-My Report: Fine-Tuning RoBERTa for Graph-Based Sentiment Analysis
+**My Report**: Fine-Tuning RoBERTa for Graph-Based Sentiment Analysis
 [Fine-tuning RoBERTa for Graph-Based Sentiment Analysis.pdf](https://github.com/user-attachments/files/22917610/Paper.pdf)
 
 The finetuned model can be found on the huggingface hub
